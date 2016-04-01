@@ -1,10 +1,23 @@
-# rtransportation
-Repo for project rtransportation
+rTransportation is platform offering shared-ride services for ASU students who live on campus and do not have sufficient transportation. It intended to seamlessly connect drivers and passengers to promote community engagement through voluntary ride services.
 
-Matthew Nevitt
+CIS 440 Team: Hao Li
+
+Matt Nevitt
+
 Nick Copeland
-Hao Li
 
-rtransportation is a project aimed at making it easier for students at asu to meet up and connect in order to share transportation and get around tempe.
+Ayodele Kalejaiye
 
-The measurement plan will be to measure the amount of people that sign up for the app and reuse the app.
+Key Meansurements:
+
+the # of drivers who sign up
+
+the # of users who sign up and make requests
+
+the % of surveyed users who sign up
+
+the # of users who invite a friend to the app
+
+the overall customer satisfaction/services of quality
+
+the quality of feedback obtained from users
